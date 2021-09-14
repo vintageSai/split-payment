@@ -1,0 +1,17 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #00000036;
+  text-align: left;
+  padding: 8px;
+}
+
+thead,
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
